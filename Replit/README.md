@@ -10,6 +10,30 @@ https://replit.com/@DeniseFerreira8/DivinaReceita10
 
 <br>
 
+<h2>Contém:</h2>
+
+- Infra-estrutura básica do site utilizando Nodejs, Express e Express-Generator
+
+<h2> Rotas:</h2>
+
+- HTML/CSS/JS prontos:
+  `/`
+  `/massas`
+  `/tipicas`
+  `/receita`
+- EM andamento:
+  `/sobrenos`
+  `/perfil`
+  `/login`
+  `/cadastro`
+  
+
+
+<br>
+<hr>
+
+<br>
+
 <h2>Exemplos de Telas</h2>
 <br>
 <hr>
