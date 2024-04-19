@@ -5,7 +5,7 @@
 <br>
 
 <h2>ﾟ･:,｡★Link Para o Figma</h2>
-https://www.figma.com/file/maQUb9EtaOF5e1Pebm7nuG/DivinaReceita?type=design&node-id=0%3A1&mode=design&t=FuvuiaCtcob8ukgU-1
+https://www.figma.com/file/maQUb9EtaOF5e1Pebm7nuG/DivinaReceita?type=design&node-id=188%3A35&mode=design&t=ImtGmGR4gzVlxEQ1-1
 <br>
 
 <hr>
