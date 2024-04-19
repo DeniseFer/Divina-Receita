@@ -7,6 +7,8 @@
 ![image](https://github.com/DeniseFer/Divina-Receita/assets/124710256/6e912b5f-8b44-47b7-a486-ad2d469add0d)
 
 
+`OBS: AS IMAGENS UTILIZADAS SÃO MERAMENTE ILUSTRATIVAS, NÃO NECESSARIAMENTE TENDO RELAÇAO DIRETA COM O CONTEÚDO A QUE SE REFEREM`
+
 <hr>
 <br>
 <br>
