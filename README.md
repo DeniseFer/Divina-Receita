@@ -50,7 +50,25 @@
    ![image](https://github.com/DeniseFer/Divina-Receita/assets/124710256/5744b89d-97ec-4cac-9bc3-eac57708f4b1)
 
   
+<br>
+<br>
+<hr>
 
+<br>
+<br>
+   <h2> ﾟ･:,｡★ Replit:</h2>
+
+   - Link: https://replit.com/@DeniseFerreira8/DivinaReceita10
+
+<br>
+<br>
+<hr>
+
+<br>
+<br>
+   <h2> ﾟ･:,｡★ Figma:</h2>
+
+  - Link: https://www.figma.com/file/maQUb9EtaOF5e1Pebm7nuG/DivinaReceita?type=design&node-id=0%3A1&mode=design&t=FuvuiaCtcob8ukgU-1
 
 
 
