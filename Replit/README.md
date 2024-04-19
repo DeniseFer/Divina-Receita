@@ -1,4 +1,14 @@
 
+<hr>
+<h2>Link para o Replit</h2>
+
+
+https://replit.com/@DeniseFerreira8/DivinaReceita10
+
+<br>
+<hr>
+
+<br>
 
 <h2>Exemplos de Telas</h2>
 <br>
