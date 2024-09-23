@@ -1,9 +1,16 @@
 
 <hr>
-<h2>Link para o Replit</h2>
+
+# Link para o Replit
 
 
-https://replit.com/@DeniseFerreira8/DivinaReceita10
+<h2>₊˚ʚ 🌱 ₊˚✧ﾟ. API</h2>
+
+https://replit.com/@deniseferreira3/API
+
+<h2>₊˚ʚ 🌱 ₊˚✧ﾟ. Cliente</h2>
+
+https://replit.com/@deniseferreira3/DivinaReceita10
 
 <br>
 <hr>
